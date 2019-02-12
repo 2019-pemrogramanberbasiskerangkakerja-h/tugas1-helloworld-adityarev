@@ -8,12 +8,12 @@ Aditya Pratama (05111540000101)
 
 - Install client `node_modules` on `/client` directory
   ```sh
-  run *npm install*
-  run *npm start*
+  run _npm install_
+  run _npm start_
   ```
 - Install server `node_modules` on `/` directory
   ```sh
-  run *npm install*
-  run *npm start*
+  run _npm install_
+  run _npm start_
   ```
 - Open `localhost:3000`
